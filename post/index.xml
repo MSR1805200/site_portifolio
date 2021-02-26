@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mateus Silva Rocha</title>
+    <link>https://MSR1805200.github.io/site_portifolio/post/</link>
+    <description>Recent content in Projects on Mateus Silva Rocha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Feb 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://MSR1805200.github.io/site_portifolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classifying fetal health</title>
+      <link>https://MSR1805200.github.io/site_portifolio/post/fetal_health/</link>
+      <pubDate>Wed, 24 Feb 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://MSR1805200.github.io/site_portifolio/post/fetal_health/</guid>
+      <description>The central objective of this project is, given a set of data, to know if a fetus is healthy. The label is divided into three classes: healthy, suspicious and pathological, with the pathological being the most serious.
+To access information about the entire project, access the notebook.</description>
+    </item>
+    
+    <item>
+      <title>Classifying covid-related twitter feelings</title>
+      <link>https://MSR1805200.github.io/site_portifolio/post/covid_tweets/</link>
+      <pubDate>Fri, 12 Feb 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://MSR1805200.github.io/site_portifolio/post/covid_tweets/</guid>
+      <description>The purpose of this project is to classify Twitter texts related to Covid 19 as positive, negative or neutral. The model was also put into production, so anyone who has the link to the application can use it.
+Project details, access the notebook.
+Full video explanation, visit the youtube link.
+Application details, access the repository .</description>
+    </item>
+    
+    <item>
+      <title>Classify handwritten digits</title>
+      <link>https://MSR1805200.github.io/site_portifolio/post/mnist/</link>
+      <pubDate>Thu, 21 Jan 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://MSR1805200.github.io/site_portifolio/post/mnist/</guid>
+      <description>The main objective of this project is to identify which number is written in an image. To increase the performance of the model, data augmentation techniques were used to increase the amount of data for training and testing the machine learning model.
+For detailed information, access the notebook.</description>
+    </item>
+    
+    <item>
+      <title>Predicting House Values ​​in Boston</title>
+      <link>https://MSR1805200.github.io/site_portifolio/post/boston_housing/</link>
+      <pubDate>Thu, 14 Jan 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://MSR1805200.github.io/site_portifolio/post/boston_housing/</guid>
+      <description>The main objective of this project is to predict the value of homes in the city of Boston, in the United States of America. It is a classic regression problem that can be divided into parts:
+  Data collection;
+  Data division;
+  Data pre-processing;
+  Exploratory analysis;
+  Training of the predictive algorithm;
+  Improvement of the predictive algorithm;
+  Testing the predictive algorithm.</description>
+    </item>
+    
+    <item>
+      <title>Predicting the amount of air pollution in Beijing</title>
+      <link>https://MSR1805200.github.io/site_portifolio/post/air_quality/</link>
+      <pubDate>Tue, 05 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://MSR1805200.github.io/site_portifolio/post/air_quality/</guid>
+      <description>The present work aims to predict what is known as particulate matter. These particles, more precisely the PM 2.5 are very fine and can be found in fog or smoke, that is to say that the more of these particles appear, the more polluted is local.
+The work can be divided into 7 parts:
+  Data collect;
+  Data division;
+  Data pre-processing;
+  Exploratory analysis;</description>
+    </item>
+    
+  </channel>
+</rss>
